@@ -1,0 +1,15 @@
+C:\Users\SpAcEDeViL\Documents\Visual Studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\bin\Release\BitcoinDESystemTray.exe.config
+C:\Users\SpAcEDeViL\Documents\Visual Studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\bin\Release\BitcoinDESystemTray.exe.manifest
+C:\Users\SpAcEDeViL\Documents\Visual Studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\bin\Release\BitcoinDESystemTray.application
+C:\Users\SpAcEDeViL\Documents\Visual Studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\bin\Release\BitcoinDESystemTray.exe
+C:\Users\SpAcEDeViL\Documents\Visual Studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\bin\Release\BitcoinDESystemTray.pdb
+C:\Users\SpAcEDeViL\Documents\Visual Studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\bin\Release\Newtonsoft.Json.dll
+C:\Users\SpAcEDeViL\Documents\Visual Studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\bin\Release\Newtonsoft.Json.xml
+C:\Users\SpAcEDeViL\Documents\Visual Studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\obj\Release\BitcoinDESystemTray.BitcoinWindow.resources
+C:\Users\SpAcEDeViL\Documents\Visual Studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\obj\Release\BitcoinDESystemTray.Properties.Resources.resources
+C:\Users\SpAcEDeViL\Documents\Visual Studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\obj\Release\BitcoinDESystemTray.csproj.GenerateResource.Cache
+C:\Users\SpAcEDeViL\Documents\Visual Studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\obj\Release\BitcoinDESystemTray.TrustInfo.xml
+C:\Users\SpAcEDeViL\Documents\Visual Studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\obj\Release\BitcoinDESystemTray.exe.manifest
+C:\Users\SpAcEDeViL\Documents\Visual Studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\obj\Release\BitcoinDESystemTray.application
+C:\Users\SpAcEDeViL\Documents\Visual Studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\obj\Release\BitcoinDESystemTray.exe
+C:\Users\SpAcEDeViL\Documents\Visual Studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\obj\Release\BitcoinDESystemTray.pdb

@@ -1,0 +1,15 @@
+c:\users\spacedevil\documents\visual studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\bin\Debug\BitcoinDESystemTray.exe.config
+c:\users\spacedevil\documents\visual studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\bin\Debug\BitcoinDESystemTray.exe
+c:\users\spacedevil\documents\visual studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\bin\Debug\BitcoinDESystemTray.pdb
+c:\users\spacedevil\documents\visual studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\obj\Debug\BitcoinDESystemTray.BitcoinWindow.resources
+c:\users\spacedevil\documents\visual studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\obj\Debug\BitcoinDESystemTray.Properties.Resources.resources
+c:\users\spacedevil\documents\visual studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\obj\Debug\BitcoinDESystemTray.csproj.GenerateResource.Cache
+c:\users\spacedevil\documents\visual studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\obj\Debug\BitcoinDESystemTray.exe
+c:\users\spacedevil\documents\visual studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\obj\Debug\BitcoinDESystemTray.pdb
+c:\users\spacedevil\documents\visual studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\bin\Debug\Newtonsoft.Json.dll
+c:\users\spacedevil\documents\visual studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\bin\Debug\Newtonsoft.Json.xml
+c:\users\spacedevil\documents\visual studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\bin\Debug\BitcoinDESystemTray.exe.manifest
+c:\users\spacedevil\documents\visual studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\bin\Debug\BitcoinDESystemTray.application
+c:\users\spacedevil\documents\visual studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\obj\Debug\BitcoinDESystemTray.exe.manifest
+c:\users\spacedevil\documents\visual studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\obj\Debug\BitcoinDESystemTray.application
+c:\users\spacedevil\documents\visual studio 2015\Projects\BitcoinDESystemTray\BitcoinDESystemTray\obj\Debug\BitcoinDESystemTray.TrustInfo.xml
